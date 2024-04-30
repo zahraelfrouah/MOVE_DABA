@@ -14,11 +14,11 @@ With MoveDava, moving has never been simpler. Our platform offers today a seamle
 
 
 ## Tech Stack
-Next.js
-MongoDB
-Express.js
-Node.js
-Tailwind CSS
+Next.js,
+MongoDB,
+Express.js,
+Node.js,
+Tailwind CSS.
 
 
 ## Features
