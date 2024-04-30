@@ -26,10 +26,6 @@ Request History: Clients can view their requests history.
 Taking Offers: Partners can take client's offers and browse a list of the ones they took.
 Dashboard: Project owners have access to a dashboard for managing work, tracking offers and requests, as well as managing users and permissions.
 
-
-## Installation
-
-To install and set up this project on your local machine, please follow the instructions below.
     
 ## Prerequisites
 Front:
@@ -59,22 +55,3 @@ Backend:
 "nodemailer": "^6.9.13"
 "pdfkit": "^0.14.0"
 "uuid": "^9.0.1"
-## Clone the Repository
-Open your terminal or command prompt.
-Navigate to the directory where you want to clone the project repository.
-Run the following command to clone the repository:
-git clone https://github.com/EL-Mehdiri/PFE-landing-page.git
-## Installation Dependencies
-Navigate to the cloned directory:
- cd "name of your repository"
-Install the required dependencies:
- npm install
-Run the Application
-Run the following command to start the application:
- npm run dev
-Following these steps will launch the application on your local server, and you can access it by navigating to
-
- http://localhost:3000
-in your web browser.
-
-Happy browsing with MoveDaba!
