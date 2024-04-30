@@ -1,4 +1,8 @@
-
+  <br />
+    <a href="https://www.movedaba.ma" target="_blank">
+      <img style="border-radius: 20px;" src="./LANDING PAGE.png" alt="Project Banner">
+    </a>
+  <br />
 # MOVE DABA
 MoveDava is a comprehensive moving services platform designed to simplify the relocation process for clients. Whether you're moving locally or across the country, MoveDava streamlines the entire experience, offering a wide range of services such as packing and unpacking, furniture assembly, and handling fragile goods. Our platform also provides opportunities for businesses to partner with us, gaining access to valuable client references to enhance their service offerings.
 
